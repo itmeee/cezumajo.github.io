@@ -47,8 +47,6 @@ Ormary is our senior intern, she knows a varity of laboratory techniques, and is
 *SciNet Intern*
 
 Lyla is a High School student (Bronx High School of Science) and a SciNet intern who is leading our project on the Chloranthus flower development
-
-## ![](images/img-lyla.png){width="300px" fig-align="center"}
  
 ![](images/img-lyla.png){width="300px" fig-align="center"}
 
